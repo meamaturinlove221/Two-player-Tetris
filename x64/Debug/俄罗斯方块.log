@@ -1,0 +1,45 @@
+﻿  Game.cpp
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Tetris.h(26,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYROLE”的左侧
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Tetris.h(35,2): warning C4091: “typedef ”: 没有声明变量时忽略“gridShape”的左侧
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.h(35,2): warning C4091: “typedef ”: 没有声明变量时忽略“ButtonState”的左侧
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(66,96): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(66,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(217,42): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(235,42): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(236,43): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(258,43): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(284,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(295,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(303,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(306,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(309,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(312,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(314,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(315,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(318,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(321,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(324,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(327,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.cpp(330,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  main.cpp
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Tetris.h(26,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYROLE”的左侧
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Tetris.h(35,2): warning C4091: “typedef ”: 没有声明变量时忽略“gridShape”的左侧
+C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\Game.h(35,2): warning C4091: “typedef ”: 没有声明变量时忽略“ButtonState”的左侧
+  正在生成代码...
+  俄罗斯方块.vcxproj -> C:\Users\Kagurameamea\Documents\WPS Cloud Files\681698644\游戏程序设计\俄罗斯方块\俄罗斯方块\x64\Debug\俄罗斯方块.exe
